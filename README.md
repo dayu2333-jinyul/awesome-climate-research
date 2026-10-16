@@ -43,13 +43,12 @@ Surely, "awesomeness" can be subjective, but some basic rules can be applied to 
 
 ## Geoengineering
 
-- [The Economic Diplomacy of Geoengineering](http://www.homepages.ed.ac.uk/shs/Climatechange/Geo-politics/Schelling.pdf), by Thomas C. Schelling
+- [The Economic Diplomacy of Geoengineering](https://web.archive.org/web/20211023180333/http://www.homepages.ed.ac.uk/shs/Climatechange/Geo-politics/Schelling.pdf), by Thomas C. Schelling
 - [The Paradox of Climate Engineering](https://biotech.law.lsu.edu/blog/the_paradox_of_climate_engineering_global_policy.pdf), by Michael Zürn and Stefan Schäfer
 - [Disentangling the rhetoric of public goods from their externalities: The case of climate engineering](https://biotech.law.lsu.edu/blog/1-s2.0-S258979181930012X-main.pdf), by Robert Holahan and Prakash Kashwan
 - [Geoengineering Monitor](https://www.geoengineeringmonitor.org/) / [Geoengineering Map](https://map.geoengineeringmonitor.org/), by ETC Group and the Heinrich Boell Foundation
 - [Fuel To The Fire, How Geoengineering Threatens to Entrench
 Fossil Fuels and Accelerate the Climate Crisis](https://www.ciel.org/wp-content/uploads/2019/02/CIEL_FUEL-TO-THE-FIRE_How-Geoengineering-Threatens-to-Entrench-Fossil-Fuels-and-Accelerate-the-Climate-Crisis_February-2019.pdf), by the Center for International Environmental Law (CIEL)
-- [Engineering Solar Radiation Is a Crazy Idea](https://www.intelligencesquaredus.org/debate/engineering-solar-radiation-crazy-idea/#/), by Intelligence Squared U.S. Debates
 - [Geoengineering websites](https://geoengineering.global/geoengineering-websites/), by Geoengineering global
 
 ## Climate economics
@@ -83,7 +82,7 @@ Fossil Fuels and Accelerate the Climate Crisis](https://www.ciel.org/wp-content/
 - [ESMValTool](https://www.esmvaltool.org/) ([Github](https://github.com/ESMValGroup)): Community diagnostics and performance metrics tool for the evaluation of Earth System Models (ESMs)
 - [Oce](https://dankelley.github.io/oce/) ([Github](https://github.com/dankelley/oce)): R package for oceanographic processing
 - [CliMT](https://github.com/CliMT/climt): Climate Modelling and Diagnostics Toolkit. Python library which provides a modular and intuitive approach to writing numerical models of the climate system.
-- [Maja](https://gitlab.orfeo-toolbox.org/maja/maja): Atmospheric correction and cloud screening software ([Level-2A](https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-2-msi/level-2a/algorithm))
+- [Maja](https://gitlab.orfeo-toolbox.org/maja/maja): Atmospheric correction and cloud screening software
 - [ParFlow](https://parflow.org/) ([Github](https://github.com/parflow/parflow)): Numerical model that simulates the hydrologic cycle from the bedrock to the top of the plant canopy
 - [Isca](https://execlim.github.io/IscaWebsite/) ([Github](https://github.com/ExeClim/Isca)): Framework for the construction of models of the global circulation of the atmosphere of Earth and other planets, usable in Python.
 - [GEOSX](https://github.com/GEOSX/GEOSX): Framework focused on enabling streamlined development of physics simulations on high performance computing platforms.
